@@ -1,0 +1,10 @@
+---
+title: "TEMP_DELETE_IOS-XR-Ansible"
+published: true
+author: Mike Korshunov
+---
+## Introduction
+In this tutorial we are going to cover XRv4 configuration with Ansible. We will setup and try simplest configuration with Unix machine connected to XRv64.
+
+## Prerequisites
+- Computer with with 4-5GB free RAM;
